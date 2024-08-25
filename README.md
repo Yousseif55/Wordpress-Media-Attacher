@@ -1,13 +1,13 @@
 # Media Attacher Plugin
-Description
+# Description
 Media Attacher is a WordPress plugin designed to automatically attach media files to products based on matching product names. If a media item's title matches a product's name, the media will be attached to that product as a child post. This plugin also adds a bulk action option to the WordPress admin area, allowing you to attach multiple media files to products at once.
 
-Features
+# Features
 Automatically attaches media to products based on matching titles.
 Bulk action to attach multiple media items to products.
 Admin notices to show the result of the bulk operation.
 Displays skipped media items and their titles if no matching products are found.
-Installation
+# Installation
 Upload the media-attacher plugin folder to your WordPress plugins directory (/wp-content/plugins/).
 Activate the plugin through the 'Plugins' menu in WordPress.
 Usage
@@ -44,12 +44,12 @@ Version 1.0
 Initial release with basic functionality to attach media to products based on matching names.
 Added bulk action support for attaching multiple media items.
 Included admin notices for operation results and skipped media.
-Notes
+# Notes
 Ensure that media item titles exactly match product names for successful attachment.
 If media items are already attached to products or no matching product is found, those media items will be skipped.
-Author
+# Author
 Yousseif Ahmed
 
-License
+# License
 This plugin is licensed under the GPLv2 license.
 
