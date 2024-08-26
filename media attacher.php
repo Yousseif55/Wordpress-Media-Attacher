@@ -55,7 +55,7 @@ function attach_media_to_product_bulk_action($actions) {
 }
 
 // Handle the bulk action of attaching media to products
- function ($redirect_url, $action, $post_ids) {
+ function handle_attaching_media_bulk_action ($redirect_url, $action, $post_ids) {
     if ($action == 'attach_media_to_product') {
         $attached_ids = [];
         $skipped_ids = [];
