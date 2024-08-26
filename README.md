@@ -11,11 +11,6 @@
 - **Admin Notices**: Displays results of the bulk operation in admin notices.
 - **Skipped Media Reporting**: Shows skipped media items and their titles if no matching products are found.
 
-## Installation
-
-1. **Upload** the `media-attacher` plugin folder to your WordPress plugins directory (`/wp-content/plugins/`).
-2. **Activate** the plugin through the 'Plugins' menu in WordPress.
-
 ## Usage
 
 ### Bulk Actions
